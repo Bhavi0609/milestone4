@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,intial scale=1.0">
+<style>
+body{
+background-color:slate;
+font-family:calibri,Helvetica,sans-serif;
+}
+div{
+padding:10px 0;
+}
+hr{
+border:1px solid;
+margin-bottom:25px;
+}
+.registerbtn{
+padding:16px 20px
+margin:8px 0;
+border:none;
+width:50%;
+}
+</style>
+</head>
+<body>
+<form>
+
+<div class="container">
+<center><h1>Online TCS Exam Registration form</h1></center>
+<hr>
+<label>Firstname:</label>
+<input type="text" name="firstname" placeholder="Firstname" size="15" required/>
+<br>
+<div>
+<label>Lastname:</label>
+<input type="text" name="lasttname" placeholder="Lastname" size="15" required/>
+<br>
+</div>
+<div>
+<label>RegisterNo.:</label>
+<input type="text" name="rollno." placeholder="RegisterNo." size="10" required/>
+<br>
+</div>
+<div>
+<label>Fathername:</label>
+<input type="text" name="fathername" placeholder="Fathername" size="15" required/>
+<br>
+</div>
+<div>
+<label>AadharNo.:</label>
+<input type="text" name="aadharno." placeholder="AadharNo." size="10" required/>
+<br>
+</div>
+<div>
+<label>Qualification</label>
+<input type="text" name="qualification" placeholder="Qualification" size="20" required/>
+<br>
+</div>
+<div>
+<label>Course-Completed:</label>
+<select>
+<option value="Course">Course-Completed</option>
+<option value="BE">BE</option>
+<option value="B.Tech">B.Tech</option>
+<option value="MCA">MCA</option>
+<option value="M.Sc">M.Sc</option>
+<option value="MS">MS</option>
+</select>
+<br>
+</div>
+<div>
+<label>Xth-CGPA</label>
+<input type="text" name="CGPA" placeholder="Xth-CGPA" size="5" required/>
+<br>
+</div>
+<div>
+<label>XIIth-CGPA</label>
+<input type="text" name="CGPA" placeholder="XIIth-CGPA" size="5" required/>
+<br>
+</div>
+<div>
+<label>
+Current Address:
+</label>
+<br>
+<textarea cols="80" rows="5" placeholder="Current Address" value="address" required>
+</textarea>
+<br>
+</div>
+<div>
+<label for="myresume">Upload-Resume:</label>
+<input type="file" id="myresume" name="myresume"><br><br>
+<input type="submit">
+</div>
+<div>
+<label for="myphoto">Upload-Photo:</label>
+<input type="file" id="myphoto" name="myphoto"><br><br>
+<input type="submit">
+</div>
+<br>
+<br>
+<button type="submit"  class=".registerbtn"> Register </button>
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+

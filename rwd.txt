@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta  name="viewport"
+content ="width = device-width,
+initial-scale=1.0">
+</head>
+<body>
+
+<h2>Responsive Web DEsign</h2>
+<p>BTS also known as the Bangtan Boys, is a South Korean boy band formed in 2010 and debuting in 2013 under Big Hit Entertainment. The septet—consisting of members Jin, Suga, J-Hope, RM, Jimin, V, and Jungkook.</p>
+
+<img src="https://1.bp.blogspot.com/-RkJWQfmVIqc/YJ4J5y9RwFI/AAAAAAAALno/kRBX-ToDYswMr7jFl5yV6ah_ius2mCFLgCLcBGAsYHQ/s1920/Best%2BBTS%2BWallpaper%2BFor%2Bmobile%2BPhone%2Bin%2BHD%2B4K%2B%25286%2529.jpg"
+style="width:100%;">
+
+</body>
+</html>
